@@ -1,6 +1,6 @@
 {
     'name': 'Speed up GRN Validation',
-    'version': '17.0.1',
+    'version': '17.0.1.9',
     'category': 'Inventory',
     'license': 'OPL-1',
     'summary': 'Module to optimize and validate GRN with more than 500-1000 lines or more, it will validate it within '
